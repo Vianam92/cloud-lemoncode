@@ -21,6 +21,11 @@ const mockProjectSummaryList: ProjectSummary[] = [
     isAssigned: true,
     projectName: 'Baja',
   },
+  {
+    id: '5',
+    isAssigned: true,
+    projectName: 'Baja',
+  },
 ];
 
 export const mockEmployee: Employee = {
